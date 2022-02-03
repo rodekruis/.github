@@ -12,11 +12,22 @@ So that I ...
 
 (more context/explanation)
 
-## Possible solution(s)
+
+## Details
 ...
 
-## (External) Requirements
+
+## Possible solution(s)
 - ...
+
+
+## Requirements / In/Out of Scope
+- ...
+
+
+## External factors/dependencies
+- ...
+
 
 ## To Do
 - [ ] ...
