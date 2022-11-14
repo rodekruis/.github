@@ -21,7 +21,7 @@ So that I [reason/benefit]
 ### **Acceptance Criteria**
 Describe when the expected output of this spike should be accepted.
 - [ ] Example
-- [ ] Documented in the right place
+- [ ] Documented in the right place (https://github.com/rodekruis/DCH/wiki)
 
 
 ### **Timebox**
