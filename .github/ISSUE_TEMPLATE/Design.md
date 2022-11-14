@@ -23,7 +23,7 @@ The design team services many projects so we need separate tasks for them to wri
 ### **Acceptance Criteria**
 - [ ] Example
 - [ ] Outcome(s) reviewed
-- [ ] Documented the outcome(s) in the appropriate location (https://github.com/rodekruis/DCH/wiki)
+- [ ] Documented the outcome(s) in the appropriate location
 - [ ] Handed over to requester
 - [ ] Codesign sessions logged in 510EspoCRM
 
