@@ -22,7 +22,7 @@ So that I [reason/benefit]
 ### **Acceptance Criteria**
 - [ ] Example
 - [ ] Tested and reviewed
-- [ ] Documented the changes in the approriate location (https://github.com/rodekruis/DCH/wiki)
+- [ ] Documented the changes in the approriate location
 - [ ] Handed over to requester
 
 ### **Additional context**
