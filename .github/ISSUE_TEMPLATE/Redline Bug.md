@@ -2,7 +2,7 @@
 name: Redline Bug
 about: Template to track the 
 title: "[Redline BUG]"
-labels: 'Bug,REDLINE,NL'
+labels: ':lady_beetle:Bug,REDLINE,NL'
 assignees: 'Emie510'
 
 ---
