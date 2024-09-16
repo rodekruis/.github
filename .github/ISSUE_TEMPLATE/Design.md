@@ -1,7 +1,7 @@
 ---
 name: Design
 about: Suggest a design task
-title: "[Design]"
+title: "[DESIGN]"
 labels: ''
 assignees: ''
 

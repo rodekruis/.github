@@ -1,7 +1,7 @@
 ---
-name: Small Ticket
+name: Small ticket
 about: Suggest an idea for this project
-title: "[Small Ticket]"
+title: "[SMALL TICKET]"
 labels: ''
 assignees: ''
 

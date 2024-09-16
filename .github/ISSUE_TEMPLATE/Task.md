@@ -1,7 +1,7 @@
 ---
 name: Task
 about: Suggest an idea for this project
-title: "[Task]"
+title: "[TASK]"
 labels: ''
 assignees: ''
 
