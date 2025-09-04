@@ -1,7 +1,7 @@
 ---
 name: Training
 about: Suggest a training task
-title: "[TRAINING]"
+title: " "
 labels: ''
 assignees: ''
 
