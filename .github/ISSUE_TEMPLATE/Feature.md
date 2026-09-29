@@ -7,26 +7,32 @@ assignees: ''
 
 ---
 
-### **Who requested this feature?**
-Name of the person who requested it so a proper handover can be done. 
+### Who requested this feature?
 
-### **User Story**
+Name of the person who requested it so a proper handover can be done.
+
+### User Story
+
 As a [user]
 I want to [action/functionality]
 So that I [reason/benefit]
 
-### **What needs to be done**
+### What needs to be done
+
 - [ ] Task 1
 - [ ] Task 2
 
-### **Acceptance Criteria**
+### Acceptance Criteria
+
 - [ ] Example
 - [ ] Tested and reviewed
 - [ ] Documented the changes in the approriate location
 - [ ] Handed over to requester
 
-### **Additional context**
+### Additional context
+
 Add any other context or screenshots about the feature request here.
 
-### **(Optional) Describe alternatives you've considered**
+### (Optional) Describe alternatives you've considered
+
 A clear and concise description of any alternative solutions or features you've considered.
